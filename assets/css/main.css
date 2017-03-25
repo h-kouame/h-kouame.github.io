@@ -2388,7 +2388,8 @@
 		}
 
 		.icon > .label {
-			display: none;
+			padding: 1em;
+			color: gray;
 		}
 
 		.icon.alt {
@@ -3414,7 +3415,7 @@
 
 	#footer {
 		background: #272833;
-		padding: 6em 0;
+		padding: 3em 0;
 		text-align: center;
 	}
 
